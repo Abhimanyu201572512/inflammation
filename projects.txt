@@ -1,2 +1,5 @@
 This file contains the information for the group project and everyone is welcome to add the content
+
 Creating one change inside Github.
+
+Our first Visual Studio change.
